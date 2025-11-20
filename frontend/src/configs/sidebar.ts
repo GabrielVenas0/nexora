@@ -13,4 +13,5 @@ export const sidebarItems: SidebarItem[] = [
   { label: 'Relatórios', path: '/c', icon: ChartNoAxesCombined },
   { label: 'Configuração', path: '/d', icon: Cog },
   { label: 'Logout', path: '/e', icon: LogOut },
+  { label: 'teste', path: 'auth', icon: LogOut },
 ]
